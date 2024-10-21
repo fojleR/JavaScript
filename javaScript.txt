@@ -1,0 +1,4 @@
+JavaSeipt:
+-just in time
+-prototype based
+
